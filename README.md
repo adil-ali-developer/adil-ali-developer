@@ -7,50 +7,22 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=7dd3fc&center=true&vCenter=true&width=800&lines=AI+Developer;Software+Engineer;Web+Developer;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=7dd3fc&center=true&vCenter=true&width=820&lines=AI+Developer;Software+Engineer;Web+Developer;Problem+Solver;Lifelong+Learner" alt="Typing animation" />
 </p>
 
 I build smart ideas into digital products and intelligent experiences. I’m passionate about AI, software engineering, and modern web development, and I’m currently a student at Iqra University.
 
-## About Me
-
-- 🤖 AI-focused developer
-- 💻 Software engineering enthusiast
-- 🌐 Building modern, responsive and user-friendly web experiences
-- 📚 Constantly learning and experimenting with new technologies
-- 🚀 Interested in automation, intelligent systems, and product thinking
-
-## Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-</p>
-
-## Current Focus
-
-- Building AI-powered workflows and digital solutions
-- Creating polished and responsive web interfaces
-- Improving software architecture and coding discipline
-- Exploring automation, data, and product-driven development
-
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adil-ali-developer&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adil-ali-developer&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adil-ali-developer&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=7dd3fc&icon_color=7dd3fc&text_color=e5e7eb&bg_color=0b1120" alt="GitHub Stats Card" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adil-ali-developer&theme=dark&hide_border=true&stroke=7dd3fc&ring=ec4899&fire=ec4899&currStreakLabel=7dd3fc" alt="GitHub Streak" />
 </p>
 
 ## Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adil-ali-developer&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adil-ali-developer&layout=compact&theme=dark&hide_border=true&title_color=7dd3fc&text_color=e5e7eb&bg_color=0b1120" alt="Top Languages" />
 </p>
 
 ## Contribution Graph
@@ -67,10 +39,23 @@ I build smart ideas into digital products and intelligent experiences. I’m pas
 
 ## Featured Work
 
-- AI-driven apps and automation experiments
-- Modern portfolio and frontend design projects
-- Software solutions focused on real-world problem solving
-- Learning-focused development and workflow optimization
+- 🤖 AI-driven ideas and automation experiments
+- 🌐 Modern frontend and portfolio projects
+- 💡 Software solutions focused on real-world problem solving
+- 📚 Continuous learning and product-driven development
+
+## Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
 
 ## Connect With Me
 
